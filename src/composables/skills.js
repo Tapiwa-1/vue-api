@@ -2,7 +2,7 @@ import { ref } from "vue";
 import axios from "axios";
 import { useRouter } from "vue-router";
 
-axios.defaults.baseURL = "http://rest-api.test/api/v1/";
+axios.defaults.baseURL = "http://localhost:8000/api/v1/";
 
 export default function useSkills() {
   const skills = ref([]);
