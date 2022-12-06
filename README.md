@@ -1,29 +1,12 @@
-# vue-rest-api
+<img  src="https://github.com/Tapiwa-1/Tapiwa-1/blob/main/vue-restapiindex.png"/>
 
-This template should help get you started developing with Vue 3 in Vite.
+## Features
+- Index
+- Add Skill
+- Edit Skill
+- Delete Skill
 
-## Recommended IDE Setup
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+## Screenshot
+| <img  src="https://github.com/Tapiwa-1/Tapiwa-1/blob/main/vue-restapiadd.png"/> | <img  src="https://github.com/Tapiwa-1/Tapiwa-1/blob/main/vue-restapiedit.png"/> |
+| ------------- | ------------- |
